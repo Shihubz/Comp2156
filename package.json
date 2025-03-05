@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-   "homepage": "https//Shihubz.github.io/Comp2156",
+   "homepage": "https://Shihubz.github.io/Comp2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shihubz/Comp2156.git"
