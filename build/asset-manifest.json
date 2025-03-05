@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27ca76a1.css",
-    "main.js": "/static/js/main.c90b2aac.js",
-    "static/js/845.bfe5ed14.chunk.js": "/static/js/845.bfe5ed14.chunk.js",
-    "index.html": "/index.html",
-    "main.27ca76a1.css.map": "/static/css/main.27ca76a1.css.map",
-    "main.c90b2aac.js.map": "/static/js/main.c90b2aac.js.map",
-    "845.bfe5ed14.chunk.js.map": "/static/js/845.bfe5ed14.chunk.js.map"
+    "main.css": "/https//Shihubz.github.io/Comp2156/static/css/main.27ca76a1.css",
+    "main.js": "/https//Shihubz.github.io/Comp2156/static/js/main.6a63a4b5.js",
+    "static/js/845.bfe5ed14.chunk.js": "/https//Shihubz.github.io/Comp2156/static/js/845.bfe5ed14.chunk.js",
+    "index.html": "/https//Shihubz.github.io/Comp2156/index.html",
+    "main.27ca76a1.css.map": "/https//Shihubz.github.io/Comp2156/static/css/main.27ca76a1.css.map",
+    "main.6a63a4b5.js.map": "/https//Shihubz.github.io/Comp2156/static/js/main.6a63a4b5.js.map",
+    "845.bfe5ed14.chunk.js.map": "/https//Shihubz.github.io/Comp2156/static/js/845.bfe5ed14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.c90b2aac.js"
+    "static/js/main.6a63a4b5.js"
   ]
 }
